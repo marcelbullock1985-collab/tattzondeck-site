@@ -10,7 +10,6 @@ padding: "20px",
 fontFamily: "Arial, sans-serif"
 }}
 >
-{/* Logo */}
 <img
 src="/logo.png"
 alt="TattzOnDeck Logo"
@@ -18,11 +17,9 @@ style={{ width: "220px", marginBottom: "10px" }}
 />
 
 ```
-  {/* Title */}
   <h1 style={{ fontSize: "28px", margin: "10px 0" }}>TattzOnDeck</h1>
   <p style={{ opacity: 0.8 }}>Albany NY Tattoo Artist</p>
 
-  {/* Buttons */}
   <div style={{ marginTop: "20px" }}>
     <a
       href="#portfolio"
@@ -57,7 +54,6 @@ style={{ width: "220px", marginBottom: "10px" }}
     </a>
   </div>
 
-  {/* Portfolio Section */}
   <section id="portfolio" style={{ marginTop: "50px" }}>
     <h2 style={{ marginBottom: "20px" }}>Recent Work</h2>
 
@@ -79,4 +75,3 @@ style={{ width: "220px", marginBottom: "10px" }}
 
 )
 }
-
