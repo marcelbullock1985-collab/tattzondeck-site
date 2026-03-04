@@ -41,10 +41,10 @@ fontFamily: "Arial"
       marginTop:"20px"
     }}>
 
-      <img src="/tattoos/tattoo1.jpg" width="100%" />
-      <img src="/tattoos/tattoo2.jpg" width="100%" />
-      <img src="/tattoos/tattoo3.jpg" width="100%" />
-      <img src="/tattoos/tattoo4.jpg" width="100%" />
+      <img src="/portfolio/tattoo1.jpg" width="100%" />
+      <img src="/portfolio/tattoo2.jpg" width="100%" />
+      <img src="/portfolio/tattoo3.jpg" width="100%" />
+      <img src="/portfolio/tattoo4.jpg" width="100%" />
 
     </div>
   </section>
